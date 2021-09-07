@@ -1,0 +1,6 @@
+function a(){
+    'no use strict'
+    console.log(this);
+}
+
+a();
